@@ -45,5 +45,5 @@
    * [爆震]
    * [GPS]
    * [dip stick]
-   * [阿哩阿紮] (data.md)
+   * [[阿哩阿紮] (data.md)](a_li_a_7d2e5d__data__md.md)
 
