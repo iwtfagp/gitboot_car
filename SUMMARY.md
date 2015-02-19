@@ -15,7 +15,7 @@
    * [正時]
    * [引擎常見的參數：空燃比、容積效率、點火正時]
    * [引擎測試]
-* [transmission]     
+* [[transmission]     ](transmission.md)
    * [gearbox](gearbox.md)
 * [fuel] 
    * [石油燃料] 
