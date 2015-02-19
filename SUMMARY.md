@@ -5,8 +5,8 @@
 * [Power Source & engine](engine.md)
 	* [車種]
 		* [汽油車]
-		* [柴油車] (diesel_engine.md)
-		* [混合動力] (hybrid.md)
+		* [柴油車](diesel_engine.md)
+		* [混合動力](hybrid.md)
 	* [凸輪與汽門]
 	* [活塞與連桿]
 	* [曲軸]
