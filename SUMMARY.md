@@ -37,8 +37,6 @@
 * [啟動馬達]
 * [剎車] (brake.md)
 	*[hand brake] (hand_brake.md)
-	
-	
 * [行走機構] 
 	*[車輪] (Wheel.md)
 * [其他類] 
